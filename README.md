@@ -37,7 +37,7 @@
 
   <div class="confetti">🎉 🎉 🎉</div>
 
-  <h1>I love you Liv ❤️</h1>
+  <h1>Happy Valentines Day Liv, I love you ❤️</h1>
 
   <img src="photo.jpg">
 
